@@ -1,0 +1,15 @@
+body {
+  color: pink;
+  font-family:ariel;
+}
+ h1 {font-size:3cm;
+ }
+
+ h1,h2{text-align: center;
+ }
+
+p{
+  width:40%
+  margin:10vh 10v;
+  font-size:2em;
+  }
